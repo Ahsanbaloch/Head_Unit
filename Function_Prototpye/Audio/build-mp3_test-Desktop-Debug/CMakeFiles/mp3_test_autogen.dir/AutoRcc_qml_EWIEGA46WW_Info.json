@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/jwoon/build-mp3_test-Desktop-Debug/mp3_test_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jwoon/build-mp3_test-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jwoon/build-mp3_test-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jwoon/mp3_test",
+	"CMAKE_SOURCE_DIR" : "/home/jwoon/mp3_test",
+	"INCLUDE_DIR" : "/home/jwoon/build-mp3_test-Desktop-Debug/mp3_test_autogen/include",
+	"INPUTS" : [ "/home/jwoon/mp3_test/x.png", "/home/jwoon/mp3_test/main.qml" ],
+	"LOCK_FILE" : "/home/jwoon/build-mp3_test-Desktop-Debug/CMakeFiles/mp3_test_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jwoon/build-mp3_test-Desktop-Debug/CMakeFiles/mp3_test_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jwoon/mp3_test/qml.qrc",
+	"VERBOSITY" : 0
+}
