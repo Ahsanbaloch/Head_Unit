@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
                     height: 300px;
                 }
             </style>
-            <script src="http://maps.google.com/maps/api/js?key=AIzaSyBaXDM4by1bjTU8XnXAp_i3x9LUm1y6g2k&region=kr"></script>
+            <script src="http://maps.google.com/maps/api/js?key=region=kr"></script>
             </head>
 
             <body>
